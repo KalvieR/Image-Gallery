@@ -1,0 +1,26 @@
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: linear-gradient(120deg, #e90000, #e91212, #e92e2e, #e95151, #ea7474, #f5b0b0); 
+    padding: 2vw;
+    border-radius: 10px;
+    border: 1px solid black;
+    box-shadow: inset 2px 2px 12vw beige,
+    2px 2px 100px rgb(246, 83, 203);
+}
+
+.title {
+    font-family: 'Oswald', sans-serif;
+    font-weight: 500;
+    font-size: 4vw;
+}
+
+.right-side {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 2vw;
+}
+
+
